@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3C72,100:2A5298&height=200&section=header&text=Mateusz%20Filas&fontSize=40&fontColor=ffffff"/>
 
-# Hi, I'm Mateusz 👋
+# Hi 👋
 
 💻 Computer Science Student  
 🚀 Junior C#/.NET Developer passionate about backend and fullstack applications
