@@ -1,13 +1,15 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3C72,100:2A5298&height=200&section=header&text=Mateusz%20Filas&fontSize=40&fontColor=ffffff"/>
+
 # Hi, I'm Mateusz 👋
 
 💻 Computer Science Student  
-🚀 Junior C# Developer
-🛠 Building backend and fullstack applications
+🚀 Junior C#/.NET Developer passionate about backend and fullstack applications
 
 ---
-## 🚀 Tech Stack
 
-### 💻 Backend & Programming Languages
+# 🚀 Tech Stack
+
+## 💻 Backend & Programming Languages
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -15,14 +17,14 @@
 
 ---
 
-### 🌐 Frontend
+## 🌐 Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
-### ⚙️ Frameworks & Technologies
+## ⚙️ Frameworks & Technologies
 
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Blazor](https://img.shields.io/badge/Blazor-5C2D91?style=for-the-badge&logo=blazor&logoColor=white)
@@ -32,7 +34,7 @@
 
 ---
 
-### 🗄️ Databases
+## 🗄️ Databases
 
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -41,8 +43,30 @@
 
 ---
 
-### 🛠️ Tools
+## 🛠️ Tools
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+# 📌 Featured Projects
+
+## 🚀 SkillSync
+SkillSync is a modern ASP.NET Core web application designed to analyze how well a CV matches IT job offers.
+
+## 🌍 Portfolio Website
+Personal portfolio website presenting my projects, skills and experience.
+
+---
+
+# 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=eMeF0&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eMeF0&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=eMeF0&theme=tokyonight)
+
+---
