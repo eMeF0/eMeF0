@@ -3,7 +3,7 @@
 # Hi 👋
 
 💻 Computer Science Student  
-🚀 Junior C#/.NET Developer passionate about backend and fullstack applications
+🚀 Junior C#/.NET Developer
 
 ---
 
@@ -54,10 +54,10 @@
 # 📌 Featured Projects
 
 ## 🚀 SkillSync
-SkillSync is a modern ASP.NET Core web application designed to analyze how well a CV matches IT job offers.
+SkillSync is a web application designed to analyze how well a CV matches IT job offers.
 
-## 🌍 Portfolio Website
-Personal portfolio website presenting my projects, skills and experience.
+## 🌍 Planora
+Planora is an ASP.NET Core project management application designed to organize projects, tasks, notes, ideas, and useful resources in one place.
 
 ---
 
