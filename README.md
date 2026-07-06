@@ -56,8 +56,8 @@
 ## 🚀 SkillSync
 SkillSync is a web application designed to analyze how well a CV matches IT job offers.
 
-## 🌍 Planora
-Planora is an ASP.NET Core project management application designed to organize projects, tasks, notes, ideas, and useful resources in one place.
+## 🌍 Lexora
+Lexora is an Avalonia desktop application for language learning through AI-powered conversations, with saved chat history and inline notes.
 
 ---
 
